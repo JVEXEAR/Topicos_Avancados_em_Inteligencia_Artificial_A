@@ -1,2 +1,2 @@
 # Topicos_Avancados_em_Inteligencia_Artificial_A
-Trabalho da disciplina de Tópicos Avançados em Inteligência Artificial A
+This work, from the Advanced Topics in Artificial Intelligence course, focuses on MLOps with training using PyTorch.
