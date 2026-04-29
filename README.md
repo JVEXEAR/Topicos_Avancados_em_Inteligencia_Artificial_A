@@ -1,3 +1,16 @@
 # Topicos_Avancados_em_Inteligencia_Artificial_A
-This is a work about Artificial Intelligence. This repository is free and can be used for an analysis of datasets. To run this code, create an account on W&B and make a key. On code, has a space to put your key.
-<img src="https://ischool.syracuse.edu/wp-content/uploads/what-is-machine-learning-1024x683.png" alt="Image about Machine Learning">
+---
+* This is a work about Artificial Intelligence. This repository is free and can be used for an analysis of datasets. To run this code, create an account on W&B and make a key. On code, has a space to put your key.
+## Contacts:
+
+<p align="left">
+  <a href="https://github.com/jvexear">
+    <img src="https://img.shields.io/badge/GitHub-JVEXEAR-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/joao_svitor_">
+    <img src="https://img.shields.io/badge/Instagram-@joao_svitor_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://github.com/JVEXEAR/Topicos_Avancados_em_Inteligencia_Artificial_A/blob/main/Image%20for%20GitHub.png">
+⭐ If you like my work, consider starring a repository
