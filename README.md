@@ -1,4 +1,16 @@
 # Topicos_Avancados_em_Inteligencia_Artificial_A
-This work, from the Advanced Topics in Artificial Intelligence course, focuses on MLOps with training using PyTorch.
 ---
-For to run these code, download VS Code or other. Make a .venv file and run this code. Create an account on W&B. Remember you have to create a file named "KEY".py and put your key. Example: KEY  = "YOUR_KEY_OF_W&B"
+* This is a work about Artificial Intelligence. This repository is free and can be used for an analysis of datasets. To run this code, create an account on W&B and make a key. On code, has a space to put your key.
+## Contacts:
+
+<p align="left">
+  <a href="https://github.com/jvexear">
+    <img src="https://img.shields.io/badge/GitHub-JVEXEAR-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/joao_svitor_">
+    <img src="https://img.shields.io/badge/Instagram-@joao_svitor_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://github.com/JVEXEAR/Topicos_Avancados_em_Inteligencia_Artificial_A/blob/main/Image%20for%20GitHub.png">
+⭐ If you like my work, consider starring a repository
