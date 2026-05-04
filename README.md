@@ -14,3 +14,17 @@
 
 <img src="https://github.com/JVEXEAR/Topicos_Avancados_em_Inteligencia_Artificial_A/blob/main/Image%20for%20GitHub.png">
 ⭐ If you like my work, consider starring a repository
+
+# How to install?
+### On Windows:
+1. Download and install VS Code and Python.
+2. Install lib python on VS Code.
+3. Create a folder.
+4. Open Terminal and write:
+**python -m venv .venv**
+5. After: .venv\Scripts\activate
+### On Linux:
+All of Windows, but in line 5:
+source .venv/bin/activate.
+### Install requirements
+* On terminal: pip install -r requirements.txt
