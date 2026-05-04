@@ -1,0 +1,19 @@
+.venv
+venv/
+env/
+
+wandb
+.wandb
+
+.key.py
+
+.vscode
+.env
+.env.local
+
+.idea/
+
+* .swp
+
+__pycache__/
+Thmbs.db
